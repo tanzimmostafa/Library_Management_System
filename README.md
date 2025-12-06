@@ -1,7 +1,7 @@
 # CSE470 Software Engineering Project
 This is a project for my CSE470: Software Engineering course. For this project I created a Library Management System (LMS) website using php, html, css, and mysql.
 
-In the LMS website, students can login to their account, search for books and order their books. Librarians can login to their account and view all the information of the students, books, publishers, staff and any orders. Additionally, a librarian has the ability to add, modify and delete some of the data of students, books, staff and publishers from the database
+In the LMS website, students can login to their account, search for books and order their books. Librarians can login to their account and view all the information of the students, books, publishers, staff and any orders. Additionally, a librarian has the ability to add, modify and delete some of the data of students, books, staff and publishers from the database.
 
 To run this project you have to first download XAMPP.   
 Then in the htdocs folder of XAMPP copy and paste the whole lmsProject folder.  
